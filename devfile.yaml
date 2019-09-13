@@ -7,6 +7,7 @@ projects:
     name: quarkus-quickstarts
     source:
       type: git
+      location: 
 components:
   -
     type: chePlugin
