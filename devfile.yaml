@@ -2,12 +2,6 @@
 apiVersion: 1.0.0
 metadata:
   generateName: quarkus-quickstarts-
-projects:
-  -
-    name: quarkus-quickstarts
-    source:
-      type: git
-      location: 
 components:
   -
     type: chePlugin
