@@ -4,10 +4,9 @@ metadata:
   generateName: quarkus-quickstarts-
 projects:
   -
-    name: quarkus-quickstarts-
+    name: quarkus-quickstarts
     source:
       type: git
-      location: "https://github.com/maxandersen/quarkus-quickstarts.git"
 components:
   -
     type: chePlugin
